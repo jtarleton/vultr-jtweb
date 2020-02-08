@@ -155,7 +155,7 @@ hr {
   
 overflow:auto;
 min-height:349px; /* min-width: 1170px; */
-  z-index:999;background-image:url('/project-master/sslpublic/images/sol.jpg'); margin:auto 0px; margin-top: 0;
+  z-index:999;background-image:url('/images/sol.jpg'); margin:auto 0px; margin-top: 0;
   
 }
 </style>
