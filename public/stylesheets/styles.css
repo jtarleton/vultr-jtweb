@@ -548,14 +548,6 @@ font-size:	11.5px;
 font-weight:	700;
 background-color: #677a8e;
   font-weight: 700;
-  &:before, &:after {
-      content: '\201C';
-      font-family: 'Inconsolata', monospace;
-      color: #FFF;
-   }
-   &:after {
-      content: '\201D';
-   }
 }
 
 
@@ -568,7 +560,7 @@ background-color: #677a8e;
   padding-left: 1em;
   border-left: 0.2em solid orange;
   font-family: Verdana, Tahoma, Geneva, sans-serif;
-font-size:	11.5px;
+font-size:	11.6px;
 font-weight:	500;
 background-color: #577097;
 line-height:	21px;
