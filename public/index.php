@@ -321,12 +321,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
  <blockquote class="ludwigcode">
 
-  %lt;?php 
+  &lt;?php 
   class MyClass {
     public function __construct() {
 
     }
-    
+
     public function doSomething() {
       $rows = [new stdClass(), new stdClass(), new stdClass()];
       foreach($rows as $row) {
