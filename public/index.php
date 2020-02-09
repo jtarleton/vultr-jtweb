@@ -10,7 +10,7 @@
 <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
 
 <style type="text/css">
-#hp {
+#hp a {
   font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
   color: #2b2b2b;
   text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
