@@ -306,7 +306,7 @@ You are logged in
     </div> 
 <?php //<su>pst</sup>
     $date = new DateTime('2000-01-01');
-echo $date->format('Y-m-d H:i:s');
+echo $date->format('D M j G:i:s Y T');
   ?></div>
   <div class="panel-body">
 <p>
