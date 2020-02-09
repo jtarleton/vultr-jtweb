@@ -302,7 +302,7 @@ You are logged in
 <div class="col-md-8" style="min-height:1000px;">
 <div class="panel panel-default">
   <div class="rt panel-heading">
-    <div style="float:left">
+    <div style="float:left">A Newest Post
     </div> 
     Wednesday, December 31<sup>st</sup>, 1969 at 19:00pm  </div>
   <div class="panel-body">
