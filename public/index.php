@@ -388,11 +388,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 	<div style="">
 
-	<div class="col-md-4"><img src="./images/usa.png"></img>Coded in the U.S.A. using vi, Coda, and <a href="http://www.sublimetext.com/">SublimeText</a><br /><br /><br /><br />  
+	<div class="col-md-4">Coded in the <img src="./images/usa.png"></img> U.S.A. using vim and <a href="https://www.sublimetext.com/">SublimeText</a><br /><br /><br /><br />  
 	</div>
-	<div class="col-md-4">©2013 James <br /><br /><br /><br />
+	<div class="col-md-4">© <?php echo date('Y'); ?> James <br /><br /><br /><br />
 	</div>
-	<div class="col-md-4"><a href="http://validator.w3.org/check?uri=https%3A%2F%2Fwww.crystalbit.com%2Fsindex.php&charset=%28detect+automatically%29&doctype=Inline&group=0">HTML 5</a> rendered in: 0.03 microseconds<br /><br /><br /><br />
+	<div class="col-md-4"><a href="https://validator.w3.org/check?uri=https%3A%2F%2Fwww.crystalbit.com%2Fsindex.php&charset=%28detect+automatically%29&doctype=Inline&group=0">HTML 5</a> rendered in: 0.03 microseconds<br /><br /><br /><br />
 	</div> 
 	</div>
 
