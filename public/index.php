@@ -11,9 +11,9 @@
 
 <style type="text/css">
 #hp a {
-  font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
-  color: #2b2b2b;
-  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+  font: 400 28px/1.5 font-family: Papyrus,fantasy; 
+  color: #ad6354;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 3px 3px 0px rgba(0,0,0,0.05);
 }
 </style>
 
