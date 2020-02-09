@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -20,7 +14,7 @@ body{
 }
 .container{
   background-color:#2B3E50;
-  opacity:80%;
+  opacity:81%;
 }
 
 
@@ -394,7 +388,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 	<div style="">
 
-	<div class="col-md-4">Coded in the U.S.A. using vi, Coda, and <a href="http://www.sublimetext.com/">SublimeText</a><br /><br /><br /><br />  
+	<div class="col-md-4"><img src="./images/usa.png"></img>Coded in the U.S.A. using vi, Coda, and <a href="http://www.sublimetext.com/">SublimeText</a><br /><br /><br /><br />  
 	</div>
 	<div class="col-md-4">©2013 James <br /><br /><br /><br />
 	</div>
