@@ -547,7 +547,7 @@ direction:	ltr;
 .ludwig {
   position: relative;
   padding-left: 1em;
-  border-left: 0.2em solid lighten(orange, 40%);
+  border-left: 0.2em solid orange;
   font-family: Verdana, Tahoma, Geneva, sans-serif;
 font-size:	11.5px;
 font-weight:	500;
@@ -557,7 +557,7 @@ line-height:	21px;
   &:before, &:after {
       content: '\201C';
       font-family: 'font-family: Verdana, Tahoma, Geneva, sans-serif;';
-      color: lighten(orange, 40%);
+      color: orange;
    }
    &:after {
       content: '\201D';
