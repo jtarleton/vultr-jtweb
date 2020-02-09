@@ -304,7 +304,10 @@ You are logged in
   <div class="rt panel-heading">
     <div style="float:left">A Newest Post
     </div> 
-    Wednesday, December 31<sup>st</sup>, 1969 at 19:00pm  </div>
+<?php //<su>pst</sup>
+    $date = new DateTime('2000-01-01');
+echo $date->format('Y-m-d H:i:s');
+  ?></div>
   <div class="panel-body">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborm.</p>
