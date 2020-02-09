@@ -9,7 +9,7 @@
 
 <link href="https://fonts.googleapis.com/css?family=Reenie+Beanie" rel="stylesheet"> 
 <style>
-  #hheader h2{
+  #hp a{
   margin:10px 0 0 20px;
   /* font-size:1.4em; */
   background-color:inherit;
