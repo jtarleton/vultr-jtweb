@@ -322,7 +322,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
  <blockquote class="ludwigcode">
 
   &lt;?php 
-  class MyClass {
+  class Foo {
     public function __construct() {
 
     }
