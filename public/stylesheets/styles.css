@@ -503,7 +503,7 @@ direction:	ltr;
 /* Post */
 
 
-.post {
+.panel-body > p.post {
 
 /*
 font-family:	"Helvetica Neue",Helvetica,Arial,sans-serif; */
@@ -511,14 +511,14 @@ font-family: Verdana, Tahoma, Geneva, sans-serif;
 
 
 font-size:	12px;
-font-weight:	400;
+font-weight:	500;
 font-style:	normal;
-color:	#666666;
+color:	#F0F0F0;
 text-transform:	none;
 text-decoration:	none;
 letter-spacing:	normal;
 word-spacing:	normal;
-line-height:	16px;
+line-height:	21px;
 text-align:	start;
 vertical-align:	baseline;
 direction:	ltr;
