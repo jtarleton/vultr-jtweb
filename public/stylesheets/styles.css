@@ -538,6 +538,26 @@ direction:	ltr;
 
 
 
+.ludwigcode {
+  position: relative;
+  padding-left: 1em;
+  border-left: 0.2em solid orange;
+  font-family: 'Inconsolata', monospace;
+  white-space:pre;
+font-size:	11.5px;
+font-weight:	500;
+background-color: #677a8e;
+line-height:	21px;
+  font-weight: 100;
+  &:before, &:after {
+      content: '\201C';
+      font-family: 'Inconsolata', monospace;
+      color: #FAFAFA;
+   }
+   &:after {
+      content: '\201D';
+   }
+}
 
 
 
