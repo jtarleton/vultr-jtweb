@@ -342,6 +342,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div class="panel-heading">Recent Posts
 </div>
 <div class="panel-body"><ul style="text-indent:0; margin:0;padding:0;">
+  <li>A newest post</li>
+    <li>A newer post</li>
+      <li>A new post</li>
     </ul>
 <br />
 </div>
@@ -355,6 +358,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div class="panel-body">
 <ul style="text-indent:0; margin:0;padding:0;">
     <li>dfssfd</li>
+     <li>dfssfd</li>
+      <li>dfssfd</li>
+       <li>dfssfd</li>
+        <li>dfssfd</li>
+         <li>dfssfd</li>
 </ul><br />
 </div>
 </div> 
@@ -366,6 +374,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 <div class="panel-body">
 <ul style="text-indent:0; margin:0;padding:0;">
+   <li>dfssfd</li>
+    <li>dfssfd</li>
+     <li>dfssfd</li>
+      <li>dfssfd</li>
+       <li>dfssfd</li>
     </ul><br />
 </div>
 </div> 
