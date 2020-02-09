@@ -6,8 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Template</title>
    <!--  <link href="https://www.crystalbit.com/tbs/bootstrap-3.1.1-dist/css/bootstrap.min.css" rel="stylesheet"> -->
+
+<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+
+<style type="text/css">
+#hp {
+  font: 400 100px/1.5 'Pacifico', Helvetica, sans-serif;
+  color: #2b2b2b;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
+}
+</style>
+
     <link href="stylesheets/super.css" rel="stylesheet">
 <link href="stylesheets/styles.css" rel="stylesheet">
+
+
 <style type="text/css">
 body{
   background-color: #000;
