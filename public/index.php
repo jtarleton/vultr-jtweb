@@ -7,16 +7,22 @@
     <title>Template</title>
    <!--  <link href="https://www.crystalbit.com/tbs/bootstrap-3.1.1-dist/css/bootstrap.min.css" rel="stylesheet"> -->
 
-<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Reenie+Beanie" rel="stylesheet"> 
+<style>
+  #hheader h2{
+  margin:10px 0 0 20px;
+  /* font-size:1.4em; */
+  background-color:inherit;
+  color:#f0f2f4;
+  letter-spacing:-1px;
+  font-weight:normal;
+  
+  font-family: 'Reenie Beanie', cursive;
+  color:orange;
+  /* text-shadow: 2px 2px 0px rgba(0,0,0,0.2), 4px 4px 8px rgba(0,0,0,0.2);  */
 
-<style type="text/css">
-#hp a {
-  font: 400 28px/1.5 font-family: Papyrus,fantasy; 
-  color: #ad6354;
-  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 3px 3px 0px rgba(0,0,0,0.05);
-}
+  }
 </style>
-
     <link href="stylesheets/super.css" rel="stylesheet">
 <link href="stylesheets/styles.css" rel="stylesheet">
 
