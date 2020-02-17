@@ -1,3 +1,4 @@
+<?php header('Location: https://www.jamestarleton.com/cv/index.php'); exit(0); ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
