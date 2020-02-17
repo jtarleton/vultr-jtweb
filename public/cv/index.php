@@ -114,7 +114,7 @@
 		</div>
 
 		<div id="footer">
-			&copy; 2020 &middot; <a href="http://andreasviklund.com/templates/this-is-me-dark/">Template design</a> by <a href="http://andreasviklund.com/">Veselka Dobreva</a><br />Best hosted at <a href="https://www.svenskadomaner.se/?ref=template" title="Svenska Domäner AB">www.svenskadomaner.se</a>
+			&copy; 2020 &middot; 
 		</div>
 	  
 		<script type="text/javascript">
