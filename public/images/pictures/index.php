@@ -6,7 +6,7 @@
 <title>Pictures</title>
 </head>
 <body>
-<p><a href="index.php">Back to main picture page.</a></p>
+<p><a href="https://www.jamestarleton.com/images/pictures">Back to gallery</a> | <a href="https://www.jamestarleton.com/">Homepage</a> </p>
 <p>
 <a href="pages/1.php"><img src="thumbs/thum_355256.jpg" alt="355256.jpg" /></a>
 <a href="pages/2.php"><img src="thumbs/thum_annapierce.jpg" alt="annapierce.jpg" /></a>

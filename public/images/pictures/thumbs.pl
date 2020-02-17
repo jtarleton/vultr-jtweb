@@ -242,7 +242,7 @@ sub body{
     my $file;
     print "<title>Pictures</title>\n";
     print "</head>\n<body>\n";
-    print '<p><a href="index.php">Back to main picture page.</a></p>'."\n";
+    print '<p><a href="https://www.jamestarleton.com/images/pictures">Back to gallery</a> | <a href="https://www.jamestarleton.com/">Homepage</a> </p>'."\n";
     &caption("index.php");
     print "<p>\n";
     for($i=0;$i<=$#pics;$i++){
@@ -287,9 +287,11 @@ sub caption{
 sub navigation{
     print "<p>\n";
     if($#pics==0){
+	 print '<p><a href="https://www.jamestarleton.com/images/pictures">Back to gallery</a> | <a href="https://www.jamestarleton.com/">Homepage</a> </p>'."\n";
 	print '<a href="../index.php">Index</a>'."\n";
     }else{
 	if(($i==0)||($i==$#pics)){
+		 print '<p><a href="https://www.jamestarleton.com/images/pictures">Back to gallery</a> | <a href="https://www.jamestarleton.com/">Homepage</a> </p>'."\n";
 	    if($i==0){
 		print '<a href="../index.php">Index</a>'."\n";
 		print '<a href="./'.($i+2).'.php">Next Picture</a>'."\n";
@@ -299,6 +301,7 @@ sub navigation{
 		print '<a href="../index.php">Index</a>'."\n";
 	    }
 	}else{
+		 print '<p><a href="https://www.jamestarleton.com/images/pictures">Back to gallery</a> | <a href="https://www.jamestarleton.com/">Homepage</a> </p>'."\n";
 	    print '<a href="./'.($i).'.php">Previous Picture</a>'."\n";
 	    print '<a href="../index.php">Index</a>'."\n";
 	    print '<a href="./'.($i+2).'.php">Next Picture</a>'."\n";

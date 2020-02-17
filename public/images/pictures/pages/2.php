@@ -6,6 +6,7 @@
 </head>
 <body>
 <p>
+<p><a href="https://www.jamestarleton.com/images/pictures">Back to gallery</a> | <a href="https://www.jamestarleton.com/">Homepage</a> </p>
 <a href="./1.php">Previous Picture</a>
 <a href="../index.php">Index</a>
 <a href="./3.php">Next Picture</a>
@@ -15,6 +16,7 @@ Click on picture for Full-Sized version.
 <p><a href="../annapierce.jpg"><img src="../mid/mid_annapierce.jpg" alt="annapierce.jpg" style="width:70%;"/>
 <br /></a></p>
 <p>
+<p><a href="https://www.jamestarleton.com/images/pictures">Back to gallery</a> | <a href="https://www.jamestarleton.com/">Homepage</a> </p>
 <a href="./1.php">Previous Picture</a>
 <a href="../index.php">Index</a>
 <a href="./3.php">Next Picture</a>
